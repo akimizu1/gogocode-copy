@@ -5,6 +5,7 @@
 ## GoGoCode 是什么？
 
 #加了一段话
+#再加一段话
 
 [English version of README](README.md)
 
