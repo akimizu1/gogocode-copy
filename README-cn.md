@@ -4,7 +4,7 @@
 
 ## GoGoCode 是什么？
 
-#什么都不加
+#删除什么都不加
 
 [English version of README](README.md)
 
